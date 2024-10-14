@@ -1,6 +1,6 @@
 <h1>Face Recognition</h1>
 
-<img src="./media/screenshot1.png" alt="face recognition" width="500"> 
+<img src="./media/Screenshot1.png" alt="face recognition" width="500"> 
 
 Face detection experiment using face_recognition library in a Jupyter notebook with MySQL for storing and retrieving face embeddings.
 
